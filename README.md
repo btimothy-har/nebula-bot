@@ -20,4 +20,4 @@ N.E.B.U.L.A. provides:
 
 For the knowledge base, visit the Wiki of this repo.
 
-To join The Assassins Guild, visit us on Discord: discord.gg/assassinsguild
+To join The Assassins Guild, visit us on Discord: <a href="https://discord.gg/assassinsguild">discord.gg/assassinsguild</a>.
